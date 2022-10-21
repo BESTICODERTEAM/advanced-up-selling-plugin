@@ -1,0 +1,76 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Up Selling\n"
+"POT-Creation-Date: 2022-02-03 09:15+0100\n"
+"PO-Revision-Date: 2022-02-03 09:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: advanced-up-selling.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/cross-selling-tab.php:7
+msgid "Cross Selling Product"
+msgstr ""
+
+#: admin/cross-selling-tab.php:36 admin/variation-scross-selling-tab.php:11
+msgid "Cross-sells"
+msgstr ""
+
+#: admin/cross-selling-tab.php:37 admin/variation-scross-selling-tab.php:12
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: admin/cross-selling-tab.php:48 admin/variation-scross-selling-tab.php:23
+msgid "Select Products Here."
+msgstr ""
+
+#: public/add_to_cart.php:82
+msgid "Continue Shopping &rarr;"
+msgstr ""
+
+#: public/add_to_cart.php:82 public/add_to_cart.php:84
+msgid "“"
+msgstr ""
+
+#: public/add_to_cart.php:84
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: public/variation_shortcode.php:44
+msgid "Buy at once"
+msgstr ""
+
+#: public/variation_shortcode.php:77
+msgid "View Product"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Up Selling"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds products on product detail page to add these by checkbox to cart at "
+"once."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webwerkstatt Stauß GmbH & Co. KG"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.stauss.de"
+msgstr ""
